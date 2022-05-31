@@ -1,3 +1,11 @@
 # Fundamentos-de-la-web-nicolassilva
 
+31/05/2022
+
 x ¿COMO FUNCIONA LA INTERNET?
+
+R: Funciona a traves de de una solicitud del usuario y una respuesta del servidor.
+
+x ¿que es una solicitud y una respuesta?
+
+R: La solicitud es un rquisito y la respuesta una solución.
