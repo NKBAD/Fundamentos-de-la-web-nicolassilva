@@ -17,3 +17,9 @@ R: La solicitud es un requisito y la respuesta una solución.
 <a href="hipervinculos.html">hipervinculos</a>
 
 <a href="Emstrong.html">emstrong</a>
+
+<a href="listaDesordenada.html">listaDesordenada</a>
+
+<a href="listaOrdenada.html">listaOrdenada</a>
+
+<a href="tabla.html">Tabla</a>
