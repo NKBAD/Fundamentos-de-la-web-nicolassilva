@@ -20,6 +20,6 @@ R: La solicitud es un requisito y la respuesta una solución.
 
 <a href="listas y tablas/listaDesordenada.html">listaDesordenada</a>
 
-<a href="listas y tablas/listaOrdenada.html">listaOrdenada</a>
+<a href="listas y tablas/ListaOrdenada.html">listaOrdenada</a>
 
 <a href="listas y tablas/tabla.html">Tabla</a>
