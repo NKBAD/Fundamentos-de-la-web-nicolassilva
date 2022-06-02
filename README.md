@@ -13,3 +13,7 @@ R: La solicitud es un requisito y la respuesta una solución.
 02/06/2022
 
 <a href="encabezados.html">encabezados</a>
+
+<a href="hipervinculos.html">hipervinculos</a>
+
+<a href="Emstrong.html">emstrong</a>
