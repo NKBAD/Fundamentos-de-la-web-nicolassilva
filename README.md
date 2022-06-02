@@ -30,4 +30,4 @@ R: La solicitud es un requisito y la respuesta una solución.
 
 <a href="QuizElemental.html">Quiz Elemental</a>
 
-<a href="EntradaDeDiccionario.html">dictionary entry</a>
+<a href="Entrada-de-diccionario/EntradaDeDiccionario.html">dictionary entry</a>
