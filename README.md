@@ -23,3 +23,7 @@ R: La solicitud es un requisito y la respuesta una solución.
 <a href="listas y tablas/ListaOrdenada.html">listaOrdenada</a>
 
 <a href="listas y tablas/tabla.html">Tabla</a>
+
+<a href="imagen y video/imagen.html">imagen</a>
+
+<a href="imagen y video/video.html">video</a>
