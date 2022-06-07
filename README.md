@@ -38,3 +38,5 @@ R: La solicitud es un requisito y la respuesta una solución.
 
 <a href="pcs.html">pcs</a>
 <!-- pcs mantiene una estructura padre,hijo y hermano ->
+
+<a href="CorregirSangrias"></a>
