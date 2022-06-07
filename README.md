@@ -31,3 +31,10 @@ R: La solicitud es un requisito y la respuesta una solución.
 <a href="QuizElemental.html">Quiz Elemental</a>
 
 <a href="Entrada-de-diccionario/EntradaDeDiccionario.html">dictionary entry</a>
+
+07/06/2022
+
+<a href="indentar.html">indentar</a>
+
+<a href="pcs.html">pcs</a>
+<!-- pcs mantiene una estructura padre,hijo y hermano ->
