@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    font-family: cursive;
+}
+
+span {
+    color: aqua;
+}
+
+h2 {
+    color: white;
+    background-color: rgb(110, 35, 180);
+    font-style: italic;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    background-color: rgb(161, 174, 255);
+    text-decoration: underline;
+    text-align: right;
+    font-family: cursive;
+}
