@@ -138,6 +138,19 @@
 
 }
 
+.ninja2 h3 {
+    margin-left: 45px;
+    position: relative;
+    top: 10px;
+
+}
+.ninja2 h4 {
+    margin-left: 45px;
+    position: relative;
+    top: 10px;
+
+}
+
 .ninja2 button {
     background-color: rgb(255, 251, 0);
     margin-left: 20px;
